@@ -1,3 +1,23 @@
 *{
-    color:red
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.pages 
+.links #lasagna a {
+    color:rgb(219, 17, 37)
+}
+
+.subsection.header {
+  color: red;
+}
+
+.subsection#preview {
+  color: blue;
+}
+
+header {
+    font-weight:600;
+    font-size : 20px;
+    text-align: center;
+    background-color:antiquewhite;
+    color:rgb(72, 56, 129)
 }
